@@ -61,17 +61,171 @@ Grades will be assigned based on:
 Calendar
 --------
 
-| WEEK # | TOPIC AND INSTRUCTOR | KEY DATES |
-| --- | --- | --- |
-| 1 |  {{< br >}}{{< br >}} Course organization/introduction (Burge) {{< br >}}{{< br >}} Genomics and protein function (Burge) {{< br >}}{{< br >}}  | &nbsp; |
-| 2 | Function of nucleic acid binding factors (Burge) | Written assignment 1 due |
-| 3 | Gene expression & medicine (Student-led) | Written assignment 2 due |
-| 4 | Evolutionary dynamics (Guest instructor: Jeff Gore, Biophysics, Systems Biology) | &nbsp; |
-| 5 | Proofreading in biology (Student-led) | Written assignment 3 due |
-| 6 | Sequencing & translation (Guest instructor: Wendy Gilbert, Biology) | &nbsp; |
-| 7 | Network motifs in biology (Student-led) | Written assignment 4 due |
-| 8 | Pathway modeling (Guest instructor: Bruce Tidor, Biological Engineering and Computer Science) | &nbsp; |
-| 9 | Variability between cells (Student-led) | &nbsp; |
-| 10 | Synthetic biology (Student-led) | &nbsp; |
-| 11 | Metagenomics (Burge) | &nbsp; |
-| 12 | Signal transduction (Guest instructor: Forest White, Biological Engineering) |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPIC AND INSTRUCTOR
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Course organization/introduction (Burge)
+
+Genomics and protein function (Burge)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Function of nucleic acid binding factors (Burge)
+{{< tdclose >}}
+{{< tdopen >}}
+Written assignment 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Gene expression & medicine (Student-led)
+{{< tdclose >}}
+{{< tdopen >}}
+Written assignment 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Evolutionary dynamics (Guest instructor: Jeff Gore, Biophysics, Systems Biology)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Proofreading in biology (Student-led)
+{{< tdclose >}}
+{{< tdopen >}}
+Written assignment 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Sequencing & translation (Guest instructor: Wendy Gilbert, Biology)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Network motifs in biology (Student-led)
+{{< tdclose >}}
+{{< tdopen >}}
+Written assignment 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Pathway modeling (Guest instructor: Bruce Tidor, Biological Engineering and Computer Science)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Variability between cells (Student-led)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Synthetic biology (Student-led)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Metagenomics (Burge)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Signal transduction (Guest instructor: Forest White, Biological Engineering)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
