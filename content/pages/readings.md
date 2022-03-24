@@ -8,7 +8,7 @@ The assigned readings are from primary literature. You are responsible for under
 
 Tips on reading papers and leading a discussion about a paper ([PDF]({{< baseurl >}}/resources/mit7_89jf10_notes_on_read))
 
-Background reading on probability and statistics (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 5.2MB]({{< baseurl >}}/resources/mit7_89jf10_statsprimer))
+Background reading on probability and statistics ([PDF - 5.2MB]({{< baseurl >}}/resources/mit7_89jf10_statsprimer))
 
 (Courtesy of Woolf, P., C. Burge, A. Keating, and M. Yaffe. Used with permission.)
 
